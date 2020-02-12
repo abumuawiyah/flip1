@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  position: relative;
+}
+
+.square {
+  background-color: rgb(19, 49, 112);
+  cursor: pointer;
+  height: 100vh;
+  position: absolute;
+  right: 0;
+}
+
+.small {
+  width: 10px;
+}
+
+.big {
+  width: 200px;
+}
